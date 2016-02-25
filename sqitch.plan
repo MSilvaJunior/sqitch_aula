@@ -5,3 +5,5 @@
 schema_escola 2016-02-25T14:23:52Z Silva Junior <msilvajr@gmail.com> # Add schema for escola
 aluno 2016-02-25T14:42:29Z Silva Junior <msilvajr@gmail.com> # Cria tabela de aluno
 @1.0.0-4544 2016-02-25T15:00:02Z Silva Junior <msilvajr@gmail.com> # Tag para aluno e equema escola
+
+matricula [aluno schema_escola] 2016-02-25T15:09:41Z Silva Junior <msilvajr@gmail.com> # Criar tabela de matricula dos alunos
